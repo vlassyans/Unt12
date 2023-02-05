@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simultaneous Series</string>
+    <string name="check_ui">Check UI</string>
+    <string name="compute_button">Run computation</string>
+</resources>
